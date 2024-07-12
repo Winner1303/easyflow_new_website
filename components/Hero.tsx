@@ -11,7 +11,7 @@ const Hero = () => {
           Welcome to <span className="text-purple-500">EasyFlow</span>
         </h1>
         <p className="mt-4 text-xl">
-          Your Trusted Partner in Secure and Convenient Online transfer in Africa.
+          Your Trusted Partner in Secure and Convenient Online transfer <br/> in Africa.
         </p>
         <div className="flex justify-center items-center mt-6">
           <div className="flex -space-x-4">
