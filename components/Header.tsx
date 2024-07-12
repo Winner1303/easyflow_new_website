@@ -4,7 +4,7 @@ import Register from './Register'
 
 const Header = () => {
   return (
-    <div className='flex flex-1 text-center justify-around items-center py-4 bg-black'>
+    <div className='flex flex-1 text-center justify-around items-center py-4 bg-purple-800 hover:text-black'>
         <div className='text-white'> Logo EasyFlow </div>
         <div>
             <NavBar />
